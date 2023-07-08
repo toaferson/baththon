@@ -36,10 +36,6 @@ if x == 'Super Mario Brothers U':
   print("Mario Bros 2")
 elif x == '3.1415':
    print("ENTERING Peter Baeten Mode")
-   #i heart death grips
-elif x == 'guillotine':
-   guillotine()  
-  
    time.sleep(5)
    print("S T A R T I N G")
    time.sleep(1)
@@ -47,11 +43,15 @@ elif x == 'guillotine':
    time.sleep(1)
    pbm()
 
+   #i heart death grips
+elif x == 'guillotine':
+   guillotine()  
+  
+
 
   # fly me to the moon 2020
 else:
   print("https://youtu.be/J07vEAGtm8U%22")
-
 
  
 
